@@ -1,0 +1,74 @@
+/* Your styles here */
+
+html, body {
+    margin:0;
+    padding:0;
+    border:0;
+
+}
+
+/*header*/
+#header {
+   
+    background-color: black;
+    text-align: center;
+    height: 15vh;
+    margin:0px;
+}
+
+#header img {
+    
+    width:150px;
+    padding:30px;
+}
+
+/* main*/
+
+
+
+/* primaSezione*/
+
+#primaSezione {
+    background-image: url(../images/banner.jpg);
+    background-size:100vw;
+    text-align: center;
+    margin-block-start:0px;
+}
+ 
+button {
+    background-color: #f04c2f;
+}
+
+/*secondaSezione*/
+
+#secondaSezione{
+    background-color: white;
+    text-align: center;
+}
+
+/* recensioni */
+
+#recensioni {
+    background-color: #e22d0e;
+    text-align: center;
+}
+
+/* terza sezione */
+
+#terzaSezione {
+    background-color: white;
+    text-align: center;
+}
+
+/* footer */
+
+footer {
+    text-align: center;
+    background-color: #25a2c3;
+    color: white;
+}
+
+hr {
+    margin-left: 40%;
+    margin-right: 40%;
+}
